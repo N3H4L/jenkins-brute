@@ -1,0 +1,6 @@
+root
+administrator
+jenkins
+jenkinsadmin
+jenkinsroot
+admin
